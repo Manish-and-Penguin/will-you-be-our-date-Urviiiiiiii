@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
 /*    background-color: #F8C8DC;*/
-    background-color: #F9FBFA;
+    background-color: #f9fbfa;
 }
 
 .header_text {
@@ -22,12 +22,4 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.container {
-  text-align: center; /* Center-aligns text */
-}
-
-.container .sticker {
-  display: block; /* Makes the image a block element */
-  margin: 0 auto; /* Centers the image horizontally */
 }
